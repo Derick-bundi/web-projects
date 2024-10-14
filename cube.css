@@ -1,0 +1,15 @@
+h1:hover {
+    text-decoration: underline 2px;
+    color: rgb(4, 62, 100);
+    border-color: bisque;
+    border-style: dotted;
+    border-radius: 100px;
+    border-width: 5px;
+    width: 500px;
+    box-sizing: 10px;
+}
+
+* {
+    background-color: darkgrey;
+    color: black;
+}

@@ -1,0 +1,66 @@
+* {
+    background-color: lightblue;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: rgb(100, 150, 200) underline wavy 2px;
+    font-weight: normal;
+    width: auto;
+    background-color: none;
+
+}
+
+h3 {
+    text-align: center;
+    text-emphasis-color: lightblue;
+    text-decoration: underline black wavy;
+    font-style: oblique red;
+    color: blueviolet;
+}
+
+p {
+    text-align: left;
+    text-decoration: rgb(100, 10, 10);
+    text-decoration-style: none;
+    text-align: center;
+    color: light orange;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+a {
+    font: 500;
+    background-color: none;
+    font-weight: lighter;
+}
+
+#my {
+    background-color: none;
+    color: blue;
+}
+
+.tag {
+    color: brown;
+}
+
+ol li {
+    color: brown;
+}
+
+p>a {
+    background-color: black;
+}
+
+input {
+    color: aliceblue;
+}
+
+input[type=password] {
+    color: aliceblue;
+}
+
+button:hover {
+    background-color: black;
+}

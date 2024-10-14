@@ -1,0 +1,30 @@
+* {
+    background-color: beige;
+}
+
+#one {
+    left: 19px;
+    width: 100px;
+    height: 200px;
+    background-color: aqua;
+    color: aqua;
+}
+
+#two {
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 200px;
+    background-color: aqua;
+    color: aqua;
+}
+
+#three {
+    position: fixed;
+    top: 10px;
+    width: 100px;
+    height: 200px;
+    background-color: aqua;
+    color: aqua;
+}

@@ -1,0 +1,5 @@
+input[input=text] {
+    border-radius: fit-content;
+    border-color: blue;
+    border: solid;
+}
